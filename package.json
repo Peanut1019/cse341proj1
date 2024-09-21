@@ -1,0 +1,19 @@
+{
+  "name": "cse341proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peanut1019/cse341proj1.git"
+  },
+  "author": "Jess Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peanut1019/cse341proj1/issues"
+  },
+  "homepage": "https://github.com/Peanut1019/cse341proj1#readme"
+}
