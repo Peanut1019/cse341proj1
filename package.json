@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Peanut1019/cse341proj1/issues"
   },
-  "homepage": "https://github.com/Peanut1019/cse341proj1#readme"
+  "homepage": "https://github.com/Peanut1019/cse341proj1#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
